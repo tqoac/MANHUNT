@@ -1,2 +1,4 @@
-# MANHUNT
-Respository for roblox game MANHUNT, this is here just to keep track of things and add more ideas
+* MANHUNT
+
+If you have found an bug or issue in the game, please create an issue describing it to the best you can
+
